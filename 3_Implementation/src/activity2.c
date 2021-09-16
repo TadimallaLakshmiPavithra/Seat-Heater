@@ -1,3 +1,19 @@
+/**
+ * @file activity2.c
+ * @author PAVITHRA (you@domain.com)
+ * @brief By ADC analog values to digital values
+ * @version 0.1
+ * @date 2021-09-16
+ * 
+ * @copyright Copyright (c) 2021
+ * 
+ */
+#include<avr/io.h>
+#include"activity2.h"
+/**
+ * @brief function to initialise the analog to digital converter (ADC)
+ * 
+ */
 void InitADC()
 {
     ADMUX=(1<<REFS0);//Aref=AVcc;
