@@ -1,7 +1,7 @@
 /**
  * @file Activity1.c
  * @author PAVITHRA (you@domain.com)
- * @brief Heat sense
+ * @brief Seat Sense
  * @version 0.1
  * @date 2021-09-16
  * 
