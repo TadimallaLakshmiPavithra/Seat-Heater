@@ -7,8 +7,9 @@
  * 
  * @copyright Copyright (c) 2021
  * 
- */#include "activity2.h"
-#include"activity3.h"
+ */
+#include "activity2.h"
+#include "activity3.h"
 void InitTimer()
 {
     TCCR1A |= (1<<COM1A1)|(1<<WGM11)|(1<<WGM10);
