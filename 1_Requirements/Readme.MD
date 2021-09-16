@@ -41,9 +41,9 @@
 | ID | Description | HRID |
 | :--: | :---: | :--: |
 | LR1 |	ATmega328 | HR1 |
-| LR1 |	LM35 and ADC | HR2 |
-| LR2 |	ADC with PWM-fast | HR2 |
-| LR1 | Thermoelectric module | HR3 |
-| LR1 | LCD and LED | HR4 |
-| LR1 | Code Blocks with AVR GCC compiler | HR5 |
-| LR2 | SimulIDE | HR5 |
+| LR2 |	LM35 and ADC | HR2 |
+| LR3 |	ADC with PWM-fast | HR2 |
+| LR4 | Thermoelectric module | HR3 |
+| LR5 | LCD and LED | HR4 |
+| LR6 | Code Blocks with AVR GCC compiler | HR5 |
+| LR7 | SimulIDE | HR5 |
