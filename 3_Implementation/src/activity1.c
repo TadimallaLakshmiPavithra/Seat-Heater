@@ -1,5 +1,5 @@
 /**
- * @file Activity1.c
+ * @file activity1.c
  * @author PAVITHRA (you@domain.com)
  * @brief Seat Sense
  * @version 0.1
