@@ -27,3 +27,23 @@
 ## WHEN : At low temperature
 ## WHY : Health issues
 ## HOW : By Generating Heat to the Seat
+
+## DETAIL REQUIREMENTS
+## HIGH LEVEL REQUIREMENTS
+| ID | Description |
+| :--: | :---: |
+| HR1 |	Microcontroller |
+| HR2 | Temperature Sensor |
+| HR3 | Heat Generation |
+| HR4 | Display |
+| HR5 | Software used |
+## LOW LEVEL REQUIREMENTS
+| ID | Description | HRID |
+| :--: | :---: | :--: |
+| LR1 |	ATmega328 | HR1 |
+| LR1 |	LM35 and ADC | HR2 |
+| LR2 |	ADC with PWM-fast | HR2 |
+| LR1 | Thermoelectric module | HR3 |
+| LR1 | LCD and LED | HR4 |
+| LR1 | Code Blocks with AVR GCC compiler | HR5 |
+| LR2 | SimulIDE | HR5 |
