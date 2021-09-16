@@ -10,4 +10,4 @@ void ADC_Init();
  */
 uint16_t ADC_Read(uint8_t ch);
 
-#endif // ACTIVITY2_H_INCLUDED
+#endif  ACTIVITY2_H_INCLUDED
