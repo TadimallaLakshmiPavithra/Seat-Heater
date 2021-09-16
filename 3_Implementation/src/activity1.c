@@ -1,4 +1,19 @@
+/**
+ * @file Activity1.c
+ * @author PAVITHRA (you@domain.com)
+ * @brief Heat sense
+ * @version 0.1
+ * @date 2021-09-16
+ * 
+ * @copyright Copyright (c) 2021
+ * 
+ */
+#include "Activity1.h"
 
+/**
+ * @brief Seating Checking and connfiguring the seat, heater and LED
+ * 
+ */
 int main(void){
 
     DDRD|=(1<<PD6);//set D6=1 for LED
